@@ -12,4 +12,4 @@ jobs:
 
       - name: Run Android Container
         run: |
-          docker run -d -p 6080:6080 budtmo/docker-android:emulator_11
+          docker run -d -p 6080:6080 budtmo/docker-android:emulator_11.0
